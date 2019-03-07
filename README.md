@@ -11,8 +11,10 @@
 ## Tutorial
 
 ```bash
+export отмечает переменную окружения для экспорта с любым новым дочерним процессом.
 $ export GITHUB_USERNAME=<имя_пользователя>
 $ export GIST_TOKEN=<сохраненный_токен>
+
 $ alias edit=<nano|vi|vim|subl>
 ```
 
